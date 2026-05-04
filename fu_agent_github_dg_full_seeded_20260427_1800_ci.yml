@@ -1,9 +1,0 @@
-name: fu_agent_github_dg_full_seeded_20260427_1800 CI
-on:
-  push:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Run echo
-        run: echo fu_agent_github_dg_full_seeded_20260427_1800
