@@ -1,0 +1,5 @@
+fu_agent_dg_smoke_
+
+This is a temporary test file created for smoke testing purposes.
+Prefix: fu_agent_dg_smoke_
+Created at: 2026-05-07T17:38 +08:00
