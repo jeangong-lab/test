@@ -1,0 +1,4 @@
+smoke test file
+created at: 2026-05-12 12:10:31 (08:00)
+branch: fu_agent_dg_smoke_20260512121031
+purpose: automated smoke test verification
