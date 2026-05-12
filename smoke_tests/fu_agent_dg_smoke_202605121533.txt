@@ -1,0 +1,2 @@
+smoke test file fu_agent_dg_smoke_202605121533
+Created at: 2026-05-12 15:33 (+0800)
