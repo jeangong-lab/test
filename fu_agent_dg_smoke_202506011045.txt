@@ -1,1 +1,0 @@
-test string for smoke test - fu_agent_dg_smoke_202506011045
