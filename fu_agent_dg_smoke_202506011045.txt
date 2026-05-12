@@ -1,4 +1,0 @@
-This is a smoke test file created by Fusion Agent.
-Date: 2026-05-12
-Purpose: Deployment gate smoke test
-Status: Pass
