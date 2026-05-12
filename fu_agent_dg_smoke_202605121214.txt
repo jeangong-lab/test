@@ -1,0 +1,2 @@
+smoke test file for environment validation
+Created: 2026-05-12 12:14
