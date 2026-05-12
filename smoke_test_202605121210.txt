@@ -1,0 +1,4 @@
+smoke test file
+branch: fu_agent_dg_smoke_202605121210
+created_at: 2026-05-12 12:10:30
+purpose: temporary smoke test
