@@ -1,0 +1,2 @@
+fu_agent_dg_smoke_20260512
+Integration test file for smoke testing.
