@@ -1,0 +1,4 @@
+smoke test file
+
+This file is created for smoke testing purposes.
+Created on: 2025-06-01 12:00
