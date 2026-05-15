@@ -1,1 +1,2 @@
-this is a smoke test file for fu_agent_dg_smoke_202506011200
+this is a smoke test file.
+created for testing purposes.
