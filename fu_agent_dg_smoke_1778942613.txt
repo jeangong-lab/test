@@ -1,0 +1,2 @@
+smoke test file for branch fu_agent_dg_smoke_1778942613
+Created at: 2026-05-16T22:43:41+08:00
