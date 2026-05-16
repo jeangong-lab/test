@@ -1,0 +1,1 @@
+fu_agent_dg_smoke_test: this is a smoke test file created for read-file verification.
