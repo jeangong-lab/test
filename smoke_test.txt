@@ -1,0 +1,2 @@
+smoke test file for fu_agent_dg_smoke_202506111501
+timestamp: 2026-05-19T20:36:00+08:00
