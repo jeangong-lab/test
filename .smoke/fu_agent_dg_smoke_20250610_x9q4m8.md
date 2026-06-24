@@ -1,0 +1,1 @@
+smoke test marker: fu_agent_dg_smoke_20250610_x9q4m8
