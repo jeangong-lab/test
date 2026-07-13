@@ -1,0 +1,1 @@
+smoke test file for fu_agent_dg_smoke_20250610_a7f3k2 - auto-generated
