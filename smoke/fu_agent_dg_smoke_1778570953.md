@@ -1,0 +1,1 @@
+smoke test file for fu_agent_dg_smoke_1778570953
