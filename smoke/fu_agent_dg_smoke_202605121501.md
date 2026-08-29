@@ -1,0 +1,1 @@
+smoke test for fu_agent_dg_smoke_202605121501
